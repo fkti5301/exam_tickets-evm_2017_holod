@@ -10,7 +10,7 @@
 
 3. Клонировать к себе данный репозиторий:
    ```
-   git clone git@github.com:fkti5301/exam_tickets-aisd_2017_kolinko.git
+   git clone git@github.com:fkti5301/exam_tickets-evm_2017_holod.git
    ```
 
 
