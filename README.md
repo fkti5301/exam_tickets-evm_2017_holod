@@ -17,5 +17,7 @@
 
 [Онлайн версия](https://fkti5301.gitbooks.io/exam_tickets-evm_2017_holod/content/)
 
+[Инструкция по заполнению](INSTRUCTION.md)
+
 ![logo](resources/imgs/logo.jpg)
 
