@@ -63,6 +63,7 @@
 **Пример заполнения билета:**
 
 * [Исходник](tickets/SAMPLE.md)
+* [Как это выглядит](https://fkti5301.gitbooks.io/exam_tickets-evm_2017_holod/content/tickets/SAMPLE.html)
 
 
 # Полезные ссылки
