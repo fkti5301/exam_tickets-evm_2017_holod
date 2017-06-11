@@ -1,0 +1,11 @@
+{
+    "title" : "Ответы на экзаменационные вопросы [ОргЭВМ, 2017, Холод]",
+
+    "plugins" : ["katex"],
+
+    "pdf": {
+        "fontFamily" : "Times New Roman",
+        "fontSize": 12
+    }
+
+}
