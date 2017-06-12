@@ -19,5 +19,7 @@
 
 [Инструкция по заполнению](INSTRUCTION.md)
 
+[Доклады](https://mega.nz/#F!2gJyECwR!ra3IYSFeYRypq-L_wlaCXA)
+
 ![logo](resources/imgs/logo.jpg)
 
